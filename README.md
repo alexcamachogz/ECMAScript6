@@ -1,7 +1,7 @@
 # ECMAScript 6+
 
 Created: Aug 22, 2020 7:55 PM \
-Created by: Alex Camacho \
+Created by: [Alex Camacho](https://twitter.com/alexcamachogz) \
 Tags: JavaScript, 📓Notes \
 Updated: Aug 23, 2020 2:46 PM
 
